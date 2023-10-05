@@ -1,0 +1,37 @@
+button {
+    margin: 0.5%;
+    padding: 10px 36px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 15px;
+}
+ul {
+    margin-left: 38%;
+    margin-top: 13%;
+}
+
+#MedsBut, #diet, #exercise, #rest {
+    color: white;
+    background-color: cadetblue;
+}
+.reset {
+    margin-left: 8%;
+}
+
+pre {
+    display: inline;
+}
+
+a {
+    margin-left: 35%;
+    text-decoration: none;
+    color: black;
+    border-style: solid;
+    padding: 9px 22px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+}
