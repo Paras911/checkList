@@ -12,4 +12,4 @@ here are some screenshots:
 <pre><img src="https://github.com/Paras911/checkList/assets/147081273/71470cff-14f5-4866-bf9a-8a534f94129c"width=50%> <img src="https://github.com/Paras911/checkList/assets/147081273/205b23be-d668-4427-a1cc-e456c3ca624b"width=50%></pre>
 <pre><img src="https://github.com/Paras911/checkList/assets/147081273/c0d07851-3975-4ecc-b8c0-69d6b994a2a0"width=50%> <img src="https://github.com/Paras911/checkList/assets/147081273/e66f7d3b-3631-46fc-8f29-ad768975a2b5"width=50%></pre>
 
-Updates would be added such as a button to create new task.
+
