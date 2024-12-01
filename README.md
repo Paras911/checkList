@@ -1,16 +1,27 @@
  #checkList
 
-I have created a simple checklist to keep necessary activities for senior citizens in check.
+Overview
 
-For the elderly to have a better lifestyle, some tasks must be essential, the objective of the project is to provide a checklist of essential tasks which are to be performed.
-Once the user has finished the task, they can press the task button and to keep the daily activity in check, a reset button is added to repeat it daily.
-
-I collected data from senior neighbors and asked them about their daily needs, then I selected the top four activities to create a check list, also included a helpline number 
-in case of emergency and a link to NHSC (National Helpline for Senior Citizens)
+The Checklist App for Elderly Citizens is a lightweight, accessible, and user-friendly web application designed to help elderly individuals manage their daily tasks. To remember important activities, this app provides a simple and efficient checklist system to improve organization and quality of life. The design is focused on readability and ease of use, featuring large text, high contrast themes, and straightforward navigation.
 
 Here are some screenshots for checkList web: 
 <pre><img src="https://github.com/Paras911/checkList/assets/147081273/71470cff-14f5-4866-bf9a-8a534f94129c"width=50%> <img src="https://github.com/Paras911/checkList/assets/147081273/205b23be-d668-4427-a1cc-e456c3ca624b"width=50%></pre>
 <pre><img src="https://github.com/Paras911/checkList/assets/147081273/c0d07851-3975-4ecc-b8c0-69d6b994a2a0"width=50%> <img src="https://github.com/Paras911/checkList/assets/147081273/e66f7d3b-3631-46fc-8f29-ad768975a2b5"width=50%></pre>
+
+Features
+
+Check Off Tasks: Mark tasks as completed with a simple checkbox interface.
+
+Simple and Accessible Interface: Clean design with large fonts, clear icons, and high contrast colors for better visibility.
+
+Progress Tracking: View which tasks have been completed and which ones are still pending.
+
+Technology Stack
+
+HTML: Structure and content of the application.
+CSS: Styling and design to ensure the app is visually appealing and accessible.
+JavaScript: Logic and functionality, including task management, reminders, and user interactions.
+
 
 
 Screenshots for checkList android:
